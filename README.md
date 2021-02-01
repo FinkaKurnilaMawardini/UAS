@@ -1,1 +1,2 @@
-# UAS
+Pada Aplikasi kartu kesehatan untuk memonitoring seluruh pengunjung yang yang akan ke indonesia atau bepergian antar kota di Indoenesia. Apliaksi dengan nama "eHAC" ini menggunakan Sublime text dan CSS untuk membuat Front End nya. Pada Front End yang saya bangun ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan :
+https://drive.google.com/drive/folders/1ITe-kkeHbjIm-qvgeuyqzz4rxODDARNL
